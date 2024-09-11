@@ -1,0 +1,8 @@
+#!/Users/gjermund/Documents/Studie/H24/akstrans/ttm4105_assignment1/.venv/bin/python
+# -*- coding: UTF-8 -*-
+from __future__ import print_function, division, absolute_import
+
+from numba.misc.numba_entry import main
+
+if __name__ == "__main__":
+    main()
